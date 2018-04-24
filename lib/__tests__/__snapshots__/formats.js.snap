@@ -31,7 +31,7 @@ exports[`aura.tokens 1`] = `
   <aura:token name=\\"tokenString\\" category=\\"test\\" value=\\"/assets/images\\"/>
   <aura:token name=\\"tokenNumber\\" category=\\"test\\" value=\\"2\\"/>
   <aura:token name=\\"tokenQuotes\\" category=\\"test\\" value=\\"&apos;Salesforce Sans&apos;, &quot;Helvetica Neue&quot;, sans-serif\\"/>
-  <aura:token name=\\"tokenCss\\" property=\\"background,border\\" value=\\"white\\" category=\\"test\\"/>
+  <aura:token name=\\"tokenCss\\" property=\\"background,border\\" category=\\"test\\" value=\\"white\\"/>
 </aura:tokens>"
 `;
 
